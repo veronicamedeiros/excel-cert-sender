@@ -2,7 +2,7 @@
 
 **url lovable**: https://lovable.dev/projects/0572cd57-6ba5-4465-aea4-d634c12bdeb9
 
-**url para a aplicação publicada:** https://github.com/veronicamedeiros/excel-cert-sender.git
+**url para a aplicação publicada:** https://excel-cert-sender.lovable.app
 
 **código do fluxo em N8N**: 
 
