@@ -6,6 +6,7 @@
 
 **código do fluxo em N8N**: 
 
+```
 {
   "name": "Envio de Certificados",
   "nodes": [
@@ -275,3 +276,4 @@
   "id": "qhXhBAqtmILpcT8P",
   "tags": []
 }
+```
